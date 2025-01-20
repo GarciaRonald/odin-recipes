@@ -6,3 +6,6 @@ This project focuses on basic skills such as:
 - Adding basic boilerplate code to html files
 - Practicing basic html tags which include: h1, p, ol, ul, li, img, a
 - Use basic git commands such as clone, push, add, status, commit
+
+9/19/2025
+- Added basic styles per 'The Cascade' lesson on T.O.P.
