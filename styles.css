@@ -1,0 +1,26 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: rgb(184, 216, 184);
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+h1, h2, h3 {
+    color: rgba(255, 255, 255, 0.861);
+}
+
+h1 {
+    background-color: rgb(208, 92, 92);
+    text-align: center;
+}
+
+h2 {
+    background-color: rgb(209, 138, 138);
+}
+
+h3 {
+    background-color: rgb(203, 164, 164);
+}
